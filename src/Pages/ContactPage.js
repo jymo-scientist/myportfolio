@@ -13,7 +13,7 @@ function ContactPage() {
             </div>
             <div className="ContactPage">
                 <div className="map-sect">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2519.700327595181!2d-0.13858868403737226!3d50.836714467337785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487585104ec1fe1b%3A0x28b5349b15ce0c4d!2sLondon%20Road%20(Brighton)%20Train%20Station%20-%20Southern%20Railway!5e0!3m2!1sen!2suk!4v1611468671158!5m2!1sen!2suk" width="600" height="450" frameBorder="0" style={{border:0}} allowFullScreen="" aria-hidden="false" tabIndex="0"></iframe>
+                    <iframe src="https://www.google.com/maps/place/University+of+Embu+New+Library/@-0.5365621,37.443244,14z/data=!4m13!1m7!3m6!1s0x18262de0b161c82f:0x86c79bba0e2b8896!2sEmbu!3b1!8m2!3d-0.5388381!4d37.4596409!3m4!1s0x18262d9072a9e0e7:0xceb964a989947cb!8m2!3d-0.5145534!4d37.4556488" width="600" height="450" frameBorder="0" style={{border:0}} allowFullScreen="" aria-hidden="false" tabIndex="0"></iframe>
                 </div>
                 <div className="contact-sect">
                     <ContactItem icon={phone} text1={'+254783392722'} text2={'+254797030918'} title={'Phone'}/>

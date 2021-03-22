@@ -17,6 +17,7 @@ var portfolios = [{
   icon1: 'J',
   icon2: 'K',
   image: _index["default"],
+  
   title: 'Autodesk Maya'
 }, {
   id: 2,
