@@ -38,9 +38,14 @@ function AboutPage() {
                 text={'Devoloping simple games with C++ and Python eg Fizz -Buzz games'}
                 />
 
-
-                
             </div>
+        {/* <div>
+            <form >
+                <input>
+                <label htmlFor="job">Job</label>
+                </input>
+            </form>
+        </div> */}
 
         </div>
     )

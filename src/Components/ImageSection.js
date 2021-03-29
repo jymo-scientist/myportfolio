@@ -10,12 +10,12 @@ function ImageSection() {
             <div className="about-info">
                 <h4>I am<span> Wakaba James</span></h4>
                 <p className="about-text">
-                  An enthuastic  current  undergraduate looking for an entry position to junior software 
-                  engineering position that will utilize competative coding skills and coordination at any
-                  organization in kenya and abroad .Adptable to learning
-                  new things. A confindent and determined student who works well even in under sterssed 
-                  environments.
-                  Am passion driven  with current software development skills and software  skills.
+                  An enthuastic  current  undergraduate looking for an entry position in junior software 
+                  engineering where i can be able to  utilize my competitive coding skills and coordination at any organization
+                  in kenya and abroad..
+                 I Am passion driven  with current software development and testing skills.
+                 Apart from that, i am a confident and determined person and i am adaptable to learning new things .
+                 I posses the ability to work under time pressure and stressed environments. 
                 </p>
                 <div className="about-details">
                     <div className="left-section">
@@ -28,7 +28,7 @@ function ImageSection() {
                     </div>
                     <div className="right-section">
                         <p>: Wakaba James</p>
-                        <p>: 23</p>
+                        <p>: 22</p>
                         <p>: Kenyan</p>
                         <p>: Swahili English</p>
                         <p>: 689 Nairobi</p>

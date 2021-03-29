@@ -14,8 +14,8 @@ var portfolios = [{
   category: 'Animation',
   link1: '#',
   link2: '#',
-  icon1: 'J',
-  icon2: 'K',
+  icon1: 'follow',
+  icon2: 'follow',
   image: _index["default"],
   
   title: 'Autodesk Maya'
@@ -24,8 +24,8 @@ var portfolios = [{
   category: 'Python',
   link1:'#' ,
   link2: '#',
-  icon1: 'G',
-  icon2: 'Y',
+  icon1: 'follow',
+  icon2: 'follow',
   image: _index["default"],
   title: 'Python Web Scrapping'
 }, {
@@ -33,8 +33,8 @@ var portfolios = [{
   category: 'Animation',
   link1: 'www.youtube.com',
   link2: 'www.github.com',
-  icon1: 'G',
-  icon2: 'Y',
+  icon1: 'follow',
+  icon2: 'follow',
   image: _index["default"],
   title: 'Autodesk Maya'
 }, {
@@ -42,8 +42,8 @@ var portfolios = [{
   category: 'Javascript',
   link1: '#',
   link2: '#',
-  icon1: 'G',
-  icon2: 'Y',
+  icon1: 'follow',
+  icon2: 'follow',
   image: _index["default"],
   title: ' Javascript Website'
 }, {
@@ -51,8 +51,8 @@ var portfolios = [{
   category: 'React Js',
   link1: '#',
   link2: '#',
-  icon1: 'G',
-  icon2: 'Y',
+  icon1: 'follow',
+  icon2: 'follow',
   image: _index["default"],
   title: 'Getting Started With React'
 }, {
@@ -60,8 +60,8 @@ var portfolios = [{
   category: 'React Js',
   link1: '#',
   link2: '#',
-  icon1: 'G',
-  icon2: 'Y',
+  icon1: 'follow',
+  icon2: 'follow',
   image: _index["default"],
   title: 'Javascript Website'
 }, {
@@ -69,8 +69,8 @@ var portfolios = [{
   category: 'Software Testing',
   link1: '#',
   link2: '#',
-  icon1: 'G',
-  icon2: 'Y',
+  icon1: 'follow',
+  icon2: 'follow',
   image: _index["default"],
   title: 'Javascript Website'
 }];
