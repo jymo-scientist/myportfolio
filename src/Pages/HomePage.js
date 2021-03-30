@@ -1,5 +1,5 @@
 import React from 'react';
-import {faFacebook} from '@fortawesome/free-brands-svg-icons';
+import {faFacebook, faStaylinked} from '@fortawesome/free-brands-svg-icons';
 import {faGithub} from '@fortawesome/free-brands-svg-icons';
 import {faYoutube} from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -19,14 +19,14 @@ function HomePage() {
 
                 </p>
                 <div className="icons">
-                    <Link to="test" className="icon-holder">
+                    <Link to="https://www.facebook.com" className="icon-holder">
                         <FontAwesomeIcon icon={faFacebook} className="icon fb" />
                     </Link>
-                    <Link to="test" className="icon-holder">
+                    <Link to="https://github.com/jymo-scientist/" className="icon-holder">
                         <FontAwesomeIcon icon={faGithub} className="icon gh" />
                     </Link>
-                    <Link to="test" className="icon-holder">
-                        <FontAwesomeIcon icon={faYoutube} className="icon yt"/>
+                    <Link to="https://www.linkedin.com/feed/" className="icon-holder">
+                        <FontAwesomeIcon icon={faStaylinked} className="icon yt"/>
                     </Link>
                 </div>
             </header>
